@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.w-img{
+    width: 100px;
+}
+.bg-color-slide{
+    background-color: #264653;
+}
+/* slider p small left text */
+.font-sz{
+    font-size: 14px;
+
+}
+/* slider h1 left text */
+.font_size{
+    font-size: 48px;
+}
+.paragraph_text{
+    font-size: 16px;
+    color: #E0E0E0;
+
+}
+/* modal btn */
+#cng-btn{
+    background-color: #E76F51;
+    color:white;
+
+}
+.bg_color{
+    background-color: #264653;
+}
+.btn_login{
+    background-color: #E76F51;
+}
+#same-color{
+    color:#E76F51
+
+}
+#diff-color{
+    color:#E76F51
+}
